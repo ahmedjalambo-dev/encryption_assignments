@@ -1,7 +1,5 @@
 # Name: Ahmed Marwan Omer Jalambo
-# ID: 204911002
-
-
+# ID: 2049011002
 def calculate_modulus():
     try:
         # Receive two numbers from the user
